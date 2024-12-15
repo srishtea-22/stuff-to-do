@@ -1,0 +1,1 @@
+Stuff: To Do is a to-do list app built with HTML, CSS, JavaScript, and Webpack. It utilizes the LocalStorage API to save your tasks, letting you manage and track them easily.
